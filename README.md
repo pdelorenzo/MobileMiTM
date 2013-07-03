@@ -23,3 +23,12 @@ Features:
 For more information visit the Wiki Page: https://github.com/summitt/MobileMiTM/wiki
 
 
+Run on Linux and OSX
+
+sudo java -classpath .:MiTMExtender.jar:suite.jar burp.StartBurp
+
+Run on Windows
+
+java -classpath .;MiTMExtender.jar;suite.jar burp.StartBurp
+
+
