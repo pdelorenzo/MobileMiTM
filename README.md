@@ -1,7 +1,7 @@
 MobileMiTM
 ==========
 
-Burp Extension with DNS, non-HTTP proxy, and autolearn
+Burp Extension for BurpSuite pro that includes a custom DNS, non-HTTP proxy, and autolearn
 
 Features:
 
