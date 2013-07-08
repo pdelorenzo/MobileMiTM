@@ -22,6 +22,9 @@ Features:
 
 For more information visit the Wiki Page: https://github.com/summitt/MobileMiTM/wiki
 
+Requirements:
+Must have libpcap installed on *nix machines and winpcap on Windows machines.
+
 
 Run on Linux and OSX
 
