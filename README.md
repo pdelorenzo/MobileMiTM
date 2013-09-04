@@ -15,9 +15,9 @@ Features:
    will pick up on this and save you trouble running TCPDump trying to figure out why its not communicating with the 
    server.
 
-3. Non-HTTP Proxy - This extension also incluses a proxy that will allow you to intercept, tamper, and view previous 
+3. Non-HTTP Proxy - This extension also includes a proxy that will allow you to intercept, tamper, and view previous 
    requests not using the HTTP protocol. It currently supports just asyncronous raw sockets and SSL sockets. (SSH 
-   comming soon)
+   coming soon)
 
 
 For more information visit the Wiki Page: https://github.com/summitt/MobileMiTM/wiki
